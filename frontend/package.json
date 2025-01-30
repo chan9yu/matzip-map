@@ -1,0 +1,41 @@
+{
+	"name": "@matzip-map/front-end",
+	"version": "0.0.1",
+	"private": true,
+	"description": "🍖 Matzip Map app built with React Native, NestJS",
+	"packageManager": "yarn@1.22.22",
+	"author": "chan9yu <dev.cgyeo@gmail.com>",
+	"main": "expo-router/entry",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/chan9yu/matzip-map"
+	},
+	"scripts": {
+		"start": "expo start",
+		"android": "expo start --android",
+		"ios": "expo start --ios",
+		"web": "expo start --web",
+		"lint": "expo lint"
+	},
+	"dependencies": {
+		"expo": "~52.0.28",
+		"expo-constants": "~17.0.5",
+		"expo-linking": "~7.0.5",
+		"expo-router": "~4.0.17",
+		"expo-status-bar": "~2.0.1",
+		"react": "18.3.1",
+		"react-native": "0.76.6",
+		"react-native-safe-area-context": "4.12.0",
+		"react-native-screens": "~4.4.0"
+	},
+	"devDependencies": {
+		"@babel/core": "^7.25.2",
+		"@types/react": "~18.3.12",
+		"eslint": "^8.57.0",
+		"eslint-config-expo": "~8.0.1",
+		"eslint-config-prettier": "^10.0.1",
+		"eslint-plugin-prettier": "^5.2.3",
+		"prettier": "^3.4.2",
+		"typescript": "^5.3.3"
+	}
+}
