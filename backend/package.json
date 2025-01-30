@@ -1,0 +1,15 @@
+{
+	"name": "@matzip-map/back-end",
+	"version": "0.0.1",
+	"private": true,
+	"description": "🍖 Matzip Map app built with React Native, NestJS",
+	"packageManager": "yarn@1.22.22",
+	"author": "chan9yu <dev.cgyeo@gmail.com>",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/chan9yu/matzip-map"
+	},
+	"scripts": {},
+	"dependencies": {},
+	"devDependencies": {}
+}
