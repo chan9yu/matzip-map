@@ -2,7 +2,7 @@ import { Link } from 'expo-router';
 import { StyleSheet, Text } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
-export default function LoginScreen() {
+export default function SigninScreen() {
 	return (
 		<SafeAreaView style={styles.container} edges={['top', 'right', 'bottom', 'left']}>
 			<Text>Login Screen</Text>

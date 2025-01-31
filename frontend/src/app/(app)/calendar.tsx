@@ -1,10 +1,10 @@
 import { StyleSheet, Text } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
-export default function HomeScreen() {
+export default function CalendarScreen() {
 	return (
 		<SafeAreaView style={styles.container} edges={['top', 'right', 'bottom', 'left']}>
-			<Text>Home Screen</Text>
+			<Text>Calendar Screen</Text>
 		</SafeAreaView>
 	);
 }

@@ -8,6 +8,9 @@
 		"scheme": "matzip-map-app",
 		"userInterfaceStyle": "light",
 		"newArchEnabled": true,
+		"experiments": {
+			"typedRoutes": true
+		},
 		"splash": {
 			"image": "./src/assets/splash-icon.png",
 			"resizeMode": "contain",
